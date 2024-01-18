@@ -1,7 +1,7 @@
 # Startup application for CS 260 BYU
 
 ## Name of the project
-STrade 
+**_STrade_**
 
 ## Elevator Pitch
 I am creating a simple stock analysis app. I will allow users to add API's and visualize them alongside their realtime stock data. It will allow for preferences to be saved on their own user accounts, and view multiple charts.
