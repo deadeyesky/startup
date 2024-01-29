@@ -4,3 +4,11 @@ I also figured out how to make links to other markdown files with a relative pat
 
 
 From the domains assignment, I figured out how to secure a domain and how to get simple routing done with caddy. In honest reflection, I realize that it is much easier than I thought. I figured out that I needed to update the record before doing anything else.
+
+## HTML Inputs
+I loved learning the different elemnts of HTML and their function. I honestly already knew a bunch of them but it is cool to finally learn the right names for some of the elements because I have been searching forever for them. 
+
+## HTML Media
+For this assignment I figured out the ease by which I can render elements in a page.
+
+## HTML
