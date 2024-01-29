@@ -11,4 +11,5 @@ I loved learning the different elemnts of HTML and their function. I honestly al
 ## HTML Media
 For this assignment I figured out the ease by which I can render elements in a page.
 
-## HTML
+## HTML  Structure
+I learned the basic formatting of HTML elements. The assignment would have been a little easier had I used a fully fledged HTML editor with features and what not. I want to figure out how to best use the `<div>` elemnts for creating space in the app that I build. 
