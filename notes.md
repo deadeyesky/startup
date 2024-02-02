@@ -14,3 +14,6 @@ For this assignment I figured out the ease by which I can render elements in a p
 
 ## HTML  Structure
 I learned the basic formatting of HTML elements. The assignment would have been a little easier had I used a fully fledged HTML editor with features and what not. I want to figure out how to best use the `<div>` elements for creating space in the app that I build. 
+
+## CSS
+Today I learned how CSS can be useful for all sorts of styling and animation needs. I think it is aweosome how Firefox and Chrome have CSS and HTML developer tools to aid in making a site look different.
