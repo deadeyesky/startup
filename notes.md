@@ -17,3 +17,6 @@ I learned the basic formatting of HTML elements. The assignment would have been 
 
 ## CSS
 Today I learned how CSS can be useful for all sorts of styling and animation needs. I think it is aweosome how Firefox and Chrome have CSS and HTML developer tools to aid in making a site look different.
+
+## HTML Startup
+I loved how I leaned how to structure the site decently well and get it to work. I think so far this has been pretty easy. A little bit of difficulty uploading the html files but it came along!
