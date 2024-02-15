@@ -20,3 +20,6 @@ Today I learned how CSS can be useful for all sorts of styling and animation nee
 
 ## HTML Startup
 I loved how I leaned how to structure the site decently well and get it to work. I think so far this has been pretty easy. A little bit of difficulty uploading the html files but it came along!
+
+## CSS Startup
+I learned today that CSS is a lot easier than I imagined and that window sizing can be made super simple by remembering to keep the design simple. I thnik it is really great that one can create a very good looking website with properly crafted CSS and if it can be reusesd, the better. 
