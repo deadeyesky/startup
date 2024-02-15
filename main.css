@@ -34,7 +34,7 @@ h2 {
 
 
 nav {
-  float: left;
+  float: right;
 }
 
 nav menu {
@@ -112,7 +112,25 @@ button[type="submit"]:hover {
 
 @media screen and (max-width: 600px) {
   header {
+    padding: 60px;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+
+  footer {
     padding: 30px;
+  }
+}
+
+@media screen and (max-width: 362px) {
+  header {
+    padding: 90px;
   }
 
   h1 {
