@@ -21,3 +21,9 @@ The way this app will work is simple. The user will first sign in to their accou
 - **Authentication**: I will allow users to create accounts (more on that in the next item) and allow them to use the JWT library to allow for token-based user authentication. 
 - **Storage**: creates and stores records of user's personal preferences for their stock market views and services.
 - **WebSockets**: will allow the server to update the client-side data whenever the stock price or indicator changes. 
+
+## What I modified for CSS phase
+- I added a `.css` file for every html page and gave it somewhat of the same style and color scheme.
+- Added a window sizing rule that should allow for simple rescaling. 
+- Buttons for login and menuModal
+- Some extra tweaks to the alignment and color of the text
